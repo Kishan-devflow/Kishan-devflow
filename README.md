@@ -11,7 +11,7 @@
 ## 📌 About Me
 - 🌱 Currently learning: Web Development
 - 👨‍💻 Currently working on: Web Development Projects
-- 📑 Resume: [My Resume](https://github.com/Kishan-devflow/Kishan-devflow/blob/main/Kishan%20resume.pdf](https://drive.google.com/file/d/1J7F4H-jrt7XC96COpd_P0p-Rq2xCiH_O/view?usp=sharing)
+- 📑 Resume: [My Resume](https://github.com/Kishan-devflow/Kishan-devflow/blob/main/Kishan%20resume.pdf](https://drive.google.com/file/d/1J7F4H-jrt7XC96COpd_P0p-Rq2xCiH_O/view?usp=sharing).
 - 💻 Projects: Explore all of my work on my [GitHub](https://github.com/Kishan-devflow) profile.
 - 📫 Email: kishankishu9128@gmail.com
 
